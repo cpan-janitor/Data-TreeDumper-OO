@@ -9,21 +9,21 @@ Revision history for Perl module Data::TreeDumper::OO
 0.07 2005-07-05 NKH
 
 0.06 2005-06-27 NKH
-	- FIXED: dam'it I hate copy paste
+    - FIXED: dam'it I hate copy paste
 
 0.05 2005-06-27 NKH
-	- CHANGED: updated to match Data::TreeDumper 0.22
+    - CHANGED: updated to match Data::TreeDumper 0.22
 
 0.04 2005-06-26 NKH
-	- CHANGED: updated to match Data::TreeDumper 0.21
+    - CHANGED: updated to match Data::TreeDumper 0.21
 
 0.03 2005-01-16 NKH
-	- ADDED: QuoteValues to reflect changes in Data::TreeDumper
-	- CHANGED: object construction doesn't use package variables anymore
+    - ADDED: QuoteValues to reflect changes in Data::TreeDumper
+    - CHANGED: object construction doesn't use package variables anymore
 
 0.02 2004-08-05 NKH
-	- ADDED: SetGlyphs and QuoteHashKeys to reflect changes in Data::TreeDumper
-	
+    - ADDED: SetGlyphs and QuoteHashKeys to reflect changes in Data::TreeDumper
+
 0.01 2004-06-27 NKH
     - First release to CPAN
 
