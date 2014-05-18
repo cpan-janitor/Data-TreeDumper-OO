@@ -426,6 +426,10 @@ None.
 L<Data::TreeDumper>.
 L<Data::Dumper>.
 
+=head1 REPOSITORY
+
+L<https://github.com/neilbowers/Data-TreeDumper-OO>
+
 =head1 AUTHOR
 
 Khemir Nadim ibn Hamouda. <nadim@khemir.net>
