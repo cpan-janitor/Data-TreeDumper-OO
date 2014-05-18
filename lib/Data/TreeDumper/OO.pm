@@ -6,7 +6,7 @@ use warnings;
 use Carp ;
 
 require Exporter;
-use AutoLoader qw(AUTOLOAD);
+# use AutoLoader qw(AUTOLOAD);
 
 our @ISA = qw(Exporter);
 
