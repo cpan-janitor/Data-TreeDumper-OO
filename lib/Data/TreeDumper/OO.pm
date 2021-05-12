@@ -435,6 +435,9 @@ but include the original variable names in the output.
 L<Data::Dumper::Perltidy> - combines L<Data::Dumper> and L<Perl::Tidy>
 to stringify data in a pretty-printed format.
 
+L<Text::Tree::Indented> - format tree data in an indented tree format,
+using ASCII or box-rule characters.
+
 =head1 REPOSITORY
 
 L<https://github.com/neilbowers/Data-TreeDumper-OO>

@@ -2,6 +2,7 @@ Revision history for Perl module Data::TreeDumper::OO
 
 0.10 2021-05-12 JANITOR
     - Include META.json in releases. Thanks to MANWAR for PR.
+    - Added Text::Tree::Indented to SEE ALSO
 
 0.09 2014-06-17 NEILB
     - The module had an explicit VERSION in it, which was set to the wrong
